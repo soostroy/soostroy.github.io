@@ -20,8 +20,8 @@ body {
 }
 
 .card {
-	width: 430px;
-	height: 380px;
+	width: 420px;
+	height: 340px;
 	margin: 1em;
 	perspective: 1500px;
 	.content {
